@@ -18,6 +18,8 @@ namespace AuctionApp.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(savedInstanceState);
+
+            Microsoft.WindowsAzure.MobileServices.CurrentPlatform.Init();
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionApp.iOS", "AuctionAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionApp.UWP", "AuctionApp\AuctionApp.UWP\AuctionApp.UWP.csproj", "{A149141C-B64C-49B1-BD7F-0DBC89EF9AF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionApp", "AuctionApp\AuctionApp\AuctionApp.csproj", "{64B2D536-2560-4593-9B60-77CC8C2D617B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuctionApp", "AuctionApp\AuctionApp\AuctionApp.csproj", "{64B2D536-2560-4593-9B60-77CC8C2D617B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionApp.Backend", "AuctionApp.Backend\AuctionApp.Backend.csproj", "{1039FBC4-9664-44C3-8542-50646B9AD6A2}"
 EndProject
